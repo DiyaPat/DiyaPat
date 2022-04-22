@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiyaPat
+- 👋 Hi, I’m @DiyaPatel
 - 👀 I’m interested in python programming.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on Python.
